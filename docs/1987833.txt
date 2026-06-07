@@ -1,5 +1,5 @@
 ## [unreleased]
-- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/1987833.txt` (davmlaw/2026_assignment_3_version_control#181)
 ## [Unreleased]
 - CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (#2)
 
